@@ -1,4 +1,4 @@
-![eugene225's github stats](https://github-readme-stats.vercel.app/api?username=eugene225&show_icons=true)
+![eugene225's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugene225&show_icons=true&theme=radical)
 
 <a>:heavy_check_mark: <b>Eugene</b><br></a>
 &nbsp;
