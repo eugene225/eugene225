@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugene225)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugene225)]
 
 <a>:heavy_check_mark: <b>Eugene</b><br></a>
 &nbsp;
