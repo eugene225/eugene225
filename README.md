@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?eugene225=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eugene225&repo=github-readme-stats)](https://github.com/eugene225/github-readme-stats)
 
 <a>:heavy_check_mark: <b>Eugene</b><br></a>
 &nbsp;
