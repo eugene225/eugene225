@@ -3,7 +3,7 @@
 &nbsp;
 
 
-<br><br>
+<br>
 
 <a>:heavy_check_mark: <b>Studying</b><br></a>
 &nbsp;
