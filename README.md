@@ -1,4 +1,4 @@
-<h2>:heavy_check_mark: Studying<br></h2>
+<a>:heavy_check_mark: <b>Studying</b><br></a>
 &nbsp;
 &nbsp;
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=black"/>
