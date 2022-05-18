@@ -15,6 +15,8 @@
 
 ![eugene225's github stats](https://github-readme-stats.vercel.app/api?username=eugene225&show_icons=true&theme=tokyonight)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zenia0225)](https://solved.ac/zenia0225)
+
 <!---
 eugene225/eugene225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
