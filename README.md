@@ -1,4 +1,4 @@
-<h2><b>:sparkles:Park Eugene:sparkles:</b></h2>
+<h2><b>:sparkles: Park Eugene :sparkles:</b></h2>
 
 <a>:heavy_check_mark: <b>Social</b><br></a>
 &nbsp;
