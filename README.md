@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPRING-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 ![eugene225's github stats](https://github-readme-stats.vercel.app/api?username=eugene225&show_icons=true&theme=tokyonight)
 
