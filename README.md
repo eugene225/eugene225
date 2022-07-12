@@ -19,6 +19,7 @@
 
 ![eugene225's github stats](https://github-readme-stats.vercel.app/api?username=eugene225&show_icons=true&theme=tokyonight)
 
+<h3>:heavy_check_mark: <b>BOJ</b></h3>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zenia0225)](https://solved.ac/zenia0225)
 
 <!---
