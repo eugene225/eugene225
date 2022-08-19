@@ -1,4 +1,5 @@
 <div align="center">
+  <br>
 <h2><b>:monocle_face: Park Eugene :monocle_face:</b></h2>
 
 <h3>:speech_balloon: <b>Social</b> :speech_balloon:</h3>
@@ -16,15 +17,16 @@
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
 
 <br>
+  
+<h3>:globe_with_meridians: <b>GitHub</b> :globe_with_meridians:</h3>
 
-<h3>:heavy_check_mark: <b>BOJ</b></h3>
+![eugene225's github stats](https://github-readme-stats.vercel.app/api?username=eugene225&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugene225&layout=compact&theme=tokyonight)
+
+<h3>:heavy_check_mark: <b>BOJ</b> :heavy_check_mark:</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zenia0225)](https://solved.ac/zenia0225)
 
-<div align="left">
-[![eugene225's github stats](https://github-readme-stats.vercel.app/api?username=eugene225&show_icons=true&theme=tokyonight)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugene225&layout=compact&theme=tokyonight)]
-</div>
 
 </div>
 
