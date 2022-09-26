@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
 
 <br>
+
+<h3>📢 <b>Project</b> 📢</h3>
+[🚩세종대학교 동아리 interface앱 개발 - 서버(java+springboot)](https://github.com/Interface-Co-Ltd/Interface-Server.git)
   
 <h3>:globe_with_meridians: <b>GitHub</b> :globe_with_meridians:</h3>
 
