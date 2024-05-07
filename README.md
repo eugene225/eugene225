@@ -21,9 +21,11 @@
 
 * [세종대학교 Interface 동아리 앱 개발][1] (22.09 ~ 22.11) - Java, SpringBoot, MySQL, AWS
 * [Tumblbug CloneCoding][2] (23.12.18 ~ 24.01.12) - Java, SpringBoot, MySQL
+* [LocoMoco - 위치기반 모각코 서비스][3] (24.02 ~ ing) - Java, SpringBoot, MySQL, MongoDB, AWS, Github Action, Swagger
   
 [1]:https://github.com/Interface-Co-Ltd/Interface-Server.git
 [2]:https://github.com/Ogu-Family/fiml-backend
+[3]:https://github.com/Ogu-Family/Locomoco_BE
 
  
  
