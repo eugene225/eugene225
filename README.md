@@ -1,7 +1,13 @@
+
 ### 👋 **Welcome**
 안녕하세요, 사용자와 교육의 가치를 연결하는 서비스를 만들어가고 싶은 개발자 박유진입니다.    
 교육업에 대한 깊은 관심과 현장에서의 경험을 바탕으로 **원활한 커뮤니케이션과 협업**을 강점으로 삼고 있습니다.
 
+---
+
+### 💼
+- **Backend Developer** | NodeJS, C# (2025.06 ~ )
+ 
 ---
 
 ### 🛠 **Skills**
@@ -10,7 +16,7 @@
 - Java | TypeScript | C | Python | C++
 
 #### **Backend**
-- Spring | Spring Boot | NestJS
+- Spring | Spring Boot | NestJS | NodeJS
 
 #### **Database**
 - MySQL | MongoDB
@@ -30,10 +36,10 @@
 - **[Tumblbug CloneCoding](https://github.com/Ogu-Family/fiml-backend)** (2023.12.18 ~ 2024.01.12)  
   3인 프로젝트 | Java, Spring Boot, MySQL
 
-- **[Moco - 위치기반 모각코 서비스](https://github.com/Ogu-Family/Locomoco_BE)** (2024.02 ~ 진행 중)  
+- **[Moco - 위치기반 모각코 서비스](https://github.com/Ogu-Family/Locomoco_BE)** (2024.02 ~ 2025.01)  
   2인 프로젝트 | Java, Spring Boot, MySQL, MongoDB, AWS, Swagger
 
-- **[고구마](https://github.com/eugene225/baseball-server)** (2024.08.27 ~ 진행 중)  
+- **[고구마](https://github.com/eugene225/baseball-server)** (2024.09 ~ 2025.05)  
   개인 프로젝트 | TypeScript, NestJS, MySQL, AWS, React
 
 ---
