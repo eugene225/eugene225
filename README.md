@@ -39,13 +39,13 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eugene225&theme=2178" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eugene225&theme=2178" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=eugene225&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=eugene225&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="left">
   <a href="https://solved.ac/zenia0225">
-    <img src="http://mazandi.herokuapp.com/api?handle=zenia0225&theme=dark" height="120" />
+    <img src="http://mazandi.herokuapp.com/api?handle=zenia0225&theme=dark" height="150" />
   </a>
 </p>
 
